@@ -135,6 +135,8 @@
                     </div>
                 </div>
             </div>
+            <div class="container"></div>
+            @vite(['resources/js/app.js'])
         </div>
     </body>
 </html>
